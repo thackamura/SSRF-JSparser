@@ -10,3 +10,15 @@ Install the dependencies
 ```sh
 https://github.com/tomnomnom/waybackurls
 ```
+
+Install the bash script
+```sh
+git clone https://github.com/thackamura/SSRF-JSparser.git
+```
+
+## Usage
+
+```sh
+cd SSRF-JSparser
+sudo bash ./thackamura_ssrf.sh
+```
